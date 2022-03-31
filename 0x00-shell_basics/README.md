@@ -1,1 +1,1 @@
-Print current working directory
+How to list files in a directory
