@@ -1,1 +1,1 @@
-Where am i
+This repository contains commands related to BASH shell
